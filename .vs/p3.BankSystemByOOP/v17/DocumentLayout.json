@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA9B423-76EA-43B2-8655-4AE04DA4CDB8}|p3.BankSystemByOOP\\p3.BankSystemByOOP.vcxproj|E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBA9B423-76EA-43B2-8655-4AE04DA4CDB8}|p3.BankSystemByOOP\\p3.BankSystemByOOP.vcxproj|solutionrelative:p3.BankSystemByOOP\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA9B423-76EA-43B2-8655-4AE04DA4CDB8}|p3.BankSystemByOOP\\p3.BankSystemByOOP.vcxproj|E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBA9B423-76EA-43B2-8655-4AE04DA4CDB8}|p3.BankSystemByOOP\\p3.BankSystemByOOP.vcxproj|solutionrelative:p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "p3.BankSystemByOOP\\clsMainScreen.h",
+              "ToolTip": "E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\clsMainScreen.h",
+              "RelativeToolTip": "p3.BankSystemByOOP\\clsMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T15:50:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p3.BankSystemByOOP.cpp",
+              "DocumentMoniker": "E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp",
+              "RelativeDocumentMoniker": "p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp",
+              "ToolTip": "E:\\Visual Studio\\source\\Projects\\Course11\\git\\Bank-Management-System-Using-OOP\\p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp",
+              "RelativeToolTip": "p3.BankSystemByOOP\\p3.BankSystemByOOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T15:50:22.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
