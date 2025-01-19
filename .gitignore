@@ -1,0 +1,14 @@
+*.obj
+*.exe
+*.dll
+*.log
+*.pdb
+*.idb
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+Debug/
+Release/
