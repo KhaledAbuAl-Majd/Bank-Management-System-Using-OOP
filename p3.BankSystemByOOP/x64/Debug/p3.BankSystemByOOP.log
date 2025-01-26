@@ -1,0 +1,78 @@
+﻿  p3.BankSystemByOOP.cpp
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(54,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(206,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(230,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(405,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(450,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(530,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsString.h(535,19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsDate.h(2,33): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsDate.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUtil.h(68,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUtil.h(155,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUtil.h(157,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUtil.h(300,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUser.h(165,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+      E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUser.h(25,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(186,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+      E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(166,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(34,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(403,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(415,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsTransferScreen.h(66,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsManageUsersScreen.h(120,43): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'p3.BankSystemByOOP.cpp')
+  
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUser.h(286,1): warning C4715: 'clsUser::Find': not all control paths return a value
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(349,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUser.h(320,1): warning C4715: 'clsUser::Save': not all control paths return a value
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsUser.h(256,1): warning C4715: 'clsUser::Find': not all control paths return a value
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsBankClient.h(418,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\p3.BankSystemByOOP\clsFindCurrencyScreen.h(67,1): warning C4715: 'clsFindCurrencyScreen::_PerfromFindByOption': not all control paths return a value
+  p3.BankSystemByOOP.vcxproj -> E:\git\Bank-Management-System-Using-OOP\Bank System Using OOP\x64\Debug\p3.BankSystemByOOP.exe
